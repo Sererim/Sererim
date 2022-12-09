@@ -1,3 +1,1 @@
 - Hi, I’m @Sererim
-- I’m interested in data science, machine learning and data analysis.
-- I’m currently learning Python and libraries.
